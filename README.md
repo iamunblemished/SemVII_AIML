@@ -8,7 +8,7 @@ Welcome to the repository for AIML experiments. This document provides an overvi
 
 ## Experiments
 
-### Experiment 1: [Title of Experiment 1]
+### Experiment 1: [Exploratory Data Analysis (EDA) Using Python]
 - **Goal**: Brief description of the goal of Experiment 1.
 - **Methodology**: Brief description of the methods used.
 - **Results**: Summary of results.
